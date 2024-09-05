@@ -1,1 +1,1 @@
-# MiniProjects.github.io
+# MiniProject
